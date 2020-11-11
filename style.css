@@ -4,8 +4,21 @@
 }
 
 .card {
+    align-items: center;
     width: 30%;
     display: flex;
     flex-direction: column;
     border: 1px white solid;
+}
+
+.hrBasicPlan {
+    width: 90%;
+}
+
+.hrProfessionalPlan {
+    width: 90%;
+}
+
+.hrMasterPlan {
+    width: 90%;
 }
