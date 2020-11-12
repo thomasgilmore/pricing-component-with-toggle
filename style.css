@@ -87,6 +87,15 @@
 }
 
 .buttonLearnMoreBasicPlan {
-  background-color:  #8086dc;
+  background-color: #8086dc;
+  color: white;
+}
+
+.buttonLearnMoreProfessionalPlan {
+
+}
+
+.buttonLearnMoreMasterPlan {
+  background-color: #8086dc;
   color: white;
 }
