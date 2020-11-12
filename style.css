@@ -85,3 +85,8 @@
 .hrMasterPlan {
     width: 90%;
 }
+
+.buttonLearnMoreBasicPlan {
+  background-color:  #8086dc;
+  color: white;
+}
