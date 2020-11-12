@@ -86,7 +86,8 @@
     width: 90%;
 }
 
-.buttonLearnMoreBasicPlan {
+.buttonLearnMoreBasicPlan,
+.buttonLearnMoreMasterPlan {
   background-color: #8086dc;
   border: 1px solid #8086dc;
   border-radius: 5px;
@@ -97,16 +98,12 @@
   width: 90%;
 }
 
-.buttonLearnMoreBasicPlan:hover {
+.buttonLearnMoreBasicPlan:hover,
+.buttonLearnMoreMasterPlan:hover {
   background-color: white;
   color: #8086dc;
 }
 
 .buttonLearnMoreProfessionalPlan {
 
-}
-
-.buttonLearnMoreMasterPlan {
-  background-color: #8086dc;
-  color: white;
 }
