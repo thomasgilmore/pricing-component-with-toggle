@@ -99,7 +99,7 @@
   width: 30%;
 }
 
-.masterCard {
+.expertCard {
   align-items: center;
   border: 1px white solid;
   border-radius: 10px;
@@ -116,12 +116,12 @@
     width: 90%;
 }
 
-.hrMasterPlan {
+.hrExpertPlan {
     width: 90%;
 }
 
 .buttonLearnMoreBasicPlan,
-.buttonLearnMoreMasterPlan {
+.buttonLearnMoreExpertPlan {
   background-color: #8086dc;
   border: 1px solid #8086dc;
   border-radius: 5px;
@@ -133,7 +133,7 @@
 }
 
 .buttonLearnMoreBasicPlan:hover,
-.buttonLearnMoreMasterPlan:hover {
+.buttonLearnMoreExpertPlan:hover {
   background-color: white;
   color: #8086dc;
 }
