@@ -80,10 +80,13 @@
 
 .basicCard {
   align-items: center;
+  background-color: white;
   border: 1px white solid;
   border-radius: 10px;
   display: flex;
   flex-direction: column;
+  color: #8086dc;
+  padding: 20px 5px;
   width: 30%;
 }
 
@@ -101,10 +104,13 @@
 
 .expertCard {
   align-items: center;
+  background-color: white;
   border: 1px white solid;
   border-radius: 10px;
   display: flex;
   flex-direction: column;
+  color: #8086dc;
+  padding: 20px 5px;
   width: 30%;
 }
 
