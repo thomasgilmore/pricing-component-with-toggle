@@ -94,7 +94,7 @@ body {
   color: #8086dc;
   display: flex;
   flex-direction: column;
-  margin: 0 0 0 auto;
+  margin: 15px 0 0 auto;
   padding: 20px 5px;
   width: 30%;
 }
@@ -107,6 +107,7 @@ body {
   color: white;
   display: flex;
   flex-direction: column;
+  margin: 15px 0 0 0;
   padding: 20px 5px;
   width: 30%;
 }
@@ -119,7 +120,7 @@ body {
   color: #8086dc;
   display: flex;
   flex-direction: column;
-  margin: 0 auto 0 0;
+  margin: 15px auto 0 0;
   padding: 20px 5px;
   width: 30%;
 }
