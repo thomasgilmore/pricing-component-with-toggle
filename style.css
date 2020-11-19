@@ -92,6 +92,16 @@ body {
     flex-direction: row;
 }
 
+.monthlyPrice {
+  font-size: 0;
+  visibility: hidden;
+}
+
+.annualPrice {
+  font-size: 32px;
+  visibility: visible;
+}
+
 /* .card {
     align-items: center;
     width: 30%;
