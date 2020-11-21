@@ -9,11 +9,15 @@ var annualMonthlySwitchFunction = () => {
         $('#annualPriceBasic').removeClass('hideMonthlyOrAnnualPrice');
         $('#monthlyPriceProfessional').addClass('hideMonthlyOrAnnualPrice');
         $('#annualPriceProfessional').removeClass('hideMonthlyOrAnnualPrice');
+        $('#monthlyPriceExpert').addClass('hideMonthlyOrAnnualPrice');
+        $('#annualPriceExpert').removeClass('hideMonthlyOrAnnualPrice');
     } else {
         $('#monthlyPriceBasic').removeClass('hideMonthlyOrAnnualPrice');
         $('#annualPriceBasic').addClass('hideMonthlyOrAnnualPrice');
         $('#monthlyPriceProfessional').removeClass('hideMonthlyOrAnnualPrice');
         $('#annualPriceProfessional').addClass('hideMonthlyOrAnnualPrice');
+        $('#monthlyPriceExpert').removeClass('hideMonthlyOrAnnualPrice');
+        $('#annualPriceExpert').addClass('hideMonthlyOrAnnualPrice');
     }
 };
 
