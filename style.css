@@ -93,13 +93,16 @@ body {
 }
 
 .monthlyPrice {
-  font-size: 0;
-  visibility: hidden;
+  
 }
 
 .annualPrice {
-  font-size: 32px;
-  visibility: visible;
+  
+}
+
+.hideMonthlyOrAnnualPrice {
+  font-size: 0;
+  visibility: hidden;
 }
 
 /* .card {
