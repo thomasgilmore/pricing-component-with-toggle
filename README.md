@@ -1,3 +1,3 @@
-<h1>Hocus Pocus Trivia Game</h1>
+<h1>Pricing Component With Toggle</h1>
 
-<p>This Hocus Pocus Themed Trivia Game is a static website that I created that uses HTML, CSS and JavaScript.</p>
+<p>This Pricing Component with Toggle is from Frontend Mentor.</p>
