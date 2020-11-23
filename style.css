@@ -1,3 +1,7 @@
+.errorText {
+  text-align: center;
+}
+
 body {
   background: url('./images/background.png') no-repeat center center fixed; 
   -webkit-background-size: cover;
